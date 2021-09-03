@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Purchase a book on amazon.com" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-03T14:42:13" hostname="PB0B0911330" time="63.926">
+  <properties/>
+  <testcase name="Purchase a book" classname="Purchase a book on amazon.com" time="63.926"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[sep 03, 2021 9:42:13 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 92.0.4515.43 (8c61b7e2989f2990d42f859cac71319137787cce-refs/branch-heads/4515@{#306}) on port 16875
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+sep 03, 2021 9:42:21 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
